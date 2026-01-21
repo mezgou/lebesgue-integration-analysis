@@ -1,7 +1,7 @@
 [project]
 name = "lebesgue-integration-analysis"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Lebesgue Integration Analysis"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
