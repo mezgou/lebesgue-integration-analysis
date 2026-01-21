@@ -1,5 +1,5 @@
 def main():
-    print("Hello from lebesgue-integration-analysis!")
+    pass
 
 
 if __name__ == "__main__":
